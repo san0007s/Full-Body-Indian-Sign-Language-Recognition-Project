@@ -1,5 +1,5 @@
 
----
+
 
 # **Full-Body Indian Sign Language (ISL) Recognition System**
 
@@ -50,8 +50,8 @@ This project develops an **AI-based recognition system** for **Indian Sign Langu
 ## **Installation**
 
 ```bash
-git clone https://github.com/yourusername/ISL-FullBody-Recognition.git
-cd ISL-FullBody-Recognition
+git clone https://github.com/san0007s/Full-Body-Indian-Sign-Language-Recognition-Project.git
+cd Full-Body-Indian-Sign-Language-Recognition-Project
 pip install -r requirements.txt
 ```
 
